@@ -1,2 +1,2 @@
 # Weather-app
-This will contain the projects which i have done.
+This will contain the details about the weather-app and its features.
